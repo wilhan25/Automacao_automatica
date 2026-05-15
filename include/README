@@ -1,0 +1,8 @@
+## Descrição:
+    Um sistema que acende as luzes (led) quando estao de noite usando um fotoresistor
+    liga o ar-condicionado quando bate determinada temperatura
+    estende e recolhe o varal baseado na umidade e temperatura
+    controle infravermelho que controla tudo (luz, ar e varal, cortina, portão da garagem)
+    display que informa umidade, temperatura e horário
+    controle de cortina que abre nos horarios programados
+    Sensor de distancia que ao carro ficar a X cm da parede da garagem o portão fecha
