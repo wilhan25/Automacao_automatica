@@ -6,3 +6,5 @@
     display que informa umidade, temperatura e horário
     controle de cortina que abre nos horarios programados
     Sensor de distancia que ao carro ficar a X cm da parede da garagem o portão fecha
+
+    Motor de passo controla o varal, que será controlado pelo joystick
