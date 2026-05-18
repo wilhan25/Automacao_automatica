@@ -2,7 +2,7 @@
   Filename    : Automacao_automatica
   Description : controle de casa inteligente
   Auther      : Eng.Wilhan Almeida
-  Modification: 15/05/2026
+  Criado: 15/05/2026
 **********************************************************************/
 #include <ESP32Servo.h>
 
