@@ -20,9 +20,8 @@ Testar qual melhor formato e o que faz sentido ou não incluir e como se deve in
 
 
 ## Esquemático
-<p>
-  <img src="include/esquematico.png" width="300">
-  <img src="include/kicad_esquema.png" width="600">
+<p align="center">
+  <img src="include/ESQUEMATIC_STEPPER_MOTOR.png" width="600">
 </p>
 
 ## Resultados
