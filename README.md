@@ -6,7 +6,7 @@ O projeto tem o intuito simples de praticar minha documentação de projetos ele
 Testar qual melhor formato e o que faz sentido ou não incluir e como se deve incluir !
 
 ## Funcionalidades
-- Contorle no sentido horpario e anti horário de um motor de passo através do joystick.
+- Controle no sentido horário e anti horário de um motor de passo através do joystick.
 
 ## Hardware
 | Componente | Quantidade |
